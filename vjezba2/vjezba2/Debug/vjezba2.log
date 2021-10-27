@@ -1,0 +1,3 @@
+﻿  vector.cpp
+C:\Users\apath\source\repos\vjezba2\vjezba2\vector.cpp(22,27): warning C4018: '<': signed/unsigned mismatch
+  vjezba2.vcxproj -> C:\Users\apath\source\repos\vjezba2\Debug\vjezba2.exe
