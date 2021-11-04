@@ -1,0 +1,4 @@
+﻿  Funkcije.cpp
+C:\Users\apath\OneDrive\Radna površina\vjezba3\vjezba3\Funkcije.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\apath\OneDrive\Radna površina\vjezba3\vjezba3\Funkcije.cpp(52,6): warning C4101: 'c': unreferenced local variable
+  vjezba3.vcxproj -> C:\Users\apath\OneDrive\Radna površina\vjezba3\Debug\vjezba3.exe
