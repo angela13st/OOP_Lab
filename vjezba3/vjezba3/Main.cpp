@@ -209,7 +209,7 @@ int main()
 }*/
 
 //Zad6
-
+/*
 int main()
 {
 	vector<string> strings;
@@ -222,3 +222,4 @@ int main()
 	cout << "\n";
 	return 0;
 }
+*/

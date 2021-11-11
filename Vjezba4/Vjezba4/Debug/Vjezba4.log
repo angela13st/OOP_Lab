@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\apath\OneDrive\Radna površina\Vjezba4\Vjezba4\Vjezba4\main.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\apath\OneDrive\Radna površina\Vjezba4\Vjezba4\Vjezba4\main.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\apath\OneDrive\Radna površina\Vjezba4\Vjezba4\Vjezba4\main.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+  Vjezba4.vcxproj -> C:\Users\apath\OneDrive\Radna površina\Vjezba4\Vjezba4\Debug\Vjezba4.exe

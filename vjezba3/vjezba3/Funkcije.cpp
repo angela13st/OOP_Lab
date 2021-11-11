@@ -9,7 +9,7 @@ using namespace std;
 void input(vector<int>& niz, int n)
 {
 	int tmp;
-	vector<int> novi(n);
+	//vector<int> novi(n);
 
 	{
 		cout << "Unesite " << n << " elemenata\n";
