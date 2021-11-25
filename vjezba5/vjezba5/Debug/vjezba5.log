@@ -1,0 +1,8 @@
+﻿  Meta.cpp
+  Oruzje.cpp
+  main5.cpp
+C:\Users\apath\source\repos\vjezba5\vjezba5\main5.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\apath\source\repos\vjezba5\vjezba5\main5.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tocka.cpp
+  Generating Code...
+  vjezba5.vcxproj -> C:\Users\apath\source\repos\vjezba5\Debug\vjezba5.exe
